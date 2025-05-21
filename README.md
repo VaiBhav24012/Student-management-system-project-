@@ -1,6 +1,6 @@
 # Student-management-system-project-
 This is a simple Student Management System project implemented using Java and MySQL. It allows users to perform CRUD (Create, Read, Update, Delete) operations on student data such as ID, first name, last name, major, phone number, GPA, and date of birth.
-Features
+# Features
 Add a new student
 View student data
 Update student data
@@ -9,11 +9,11 @@ sort students by major, lastname and firstname.
 Requirements
 Java 8 or higher.
 MySQL Server.
-Usage
+# Usage
 Launch the application
 Select the desired operation from the main menu
 Follow the prompts to enter or update student data
-Database Columns
+# Database Columns
 The database table used in this project has the following columns:
 
 Student_ID: The unique identifier for each student.
